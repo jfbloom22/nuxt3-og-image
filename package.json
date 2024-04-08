@@ -18,5 +18,8 @@
     "nuxt-og-image": "3.0.0-rc.52",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "engines": {
+    "node": "18.x.x"
   }
 }

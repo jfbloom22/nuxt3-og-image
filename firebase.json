@@ -1,6 +1,7 @@
 {
   "functions": {
-    "source": ".output/server"
+    "source": ".output/server",
+    "runtime": "nodejs18"
   },
   "hosting": {
     "site": "wit-stg-8107f",
