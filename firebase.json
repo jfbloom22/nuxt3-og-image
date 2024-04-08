@@ -1,7 +1,8 @@
 {
   "functions": {
     "source": ".output/server",
-    "runtime": "nodejs18"
+    "runtime": "nodejs20",
+    "predeploy": "npm --prefix \"$RESOURCE_DIR\" install -f"
   },
   "hosting": {
     "site": "wit-stg-8107f",
