@@ -20,6 +20,6 @@
     "vue-router": "^4.3.0"
   },
   "engines": {
-    "node": "18.x.x"
+    "node": "20.x"
   }
 }
